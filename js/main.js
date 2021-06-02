@@ -166,8 +166,10 @@
 
         slidesToScroll: 3,
 
-        /*       autoplay: true,
-               autoplaySpeed: 2500,*/
+        autoplay: true,
+
+        autoplaySpeed: 1500,
+
         responsive: [
 
             {
